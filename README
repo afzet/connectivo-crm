@@ -1,0 +1,9 @@
+
+INSTALLATION
+
+1. create database
+2. import sql/dump.sql into the database
+3. rename conf.php.default to conf.php
+4. add your database settings to conf.php
+
+ENJOY

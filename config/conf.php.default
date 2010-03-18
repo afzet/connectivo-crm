@@ -1,0 +1,15 @@
+<?php
+class CONF {
+
+    var $database = array(
+		'driver' => 'mysql', 
+		'persistent' => false, 
+		'host' => 'localhost', 
+		'login' => 'username', 
+		'password' => 'password', 
+		'database' => 'connectivo', 
+		'prefix' => '',
+    );
+}
+
+?>
